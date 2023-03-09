@@ -79,3 +79,9 @@ To use the financial planner for retirement, follow these steps:
 ![Probability distribution histogram example:](Images/5-4-monte-carlo-histogram.png)
 
 4. Check the results of two Monte Carlo simulations and answer the question: Will weighting the portfolio more heavily towards stocks allow the credit union member to retire after only 10 years?
+
+### Contributors
+Alexander Likhachev
+
+### License
+MIT
