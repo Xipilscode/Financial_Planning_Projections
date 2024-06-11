@@ -1,4 +1,4 @@
-# Financial Planning with APIs and Simulations
+# Financial Planning with APIs and Monte Carlo simulation
 
 This project will have two financial analysis tools by using a single Jupyter notebook:
 
